@@ -11,5 +11,9 @@
   "license": "ISO",
   "dependencies": {
     "ethers": "^5.7.0"
+  },
+  "devDependencies": {
+    "@uniswap/sdk-core": "^3.0.2",
+    "@uniswap/v3-sdk": "^3.9.0"
   }
 }
